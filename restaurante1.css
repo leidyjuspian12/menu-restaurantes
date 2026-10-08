@@ -1,0 +1,104 @@
+
+body {
+    background-color: rgba(231, 220, 229, 0.705);
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 30px;
+    
+
+}
+.entradas {
+    border: 3px solid #f1c1ed;
+    border-radius: 10px;
+    padding: 30px;
+    background-color: rgb(224, 206, 224);
+    margin-bottom: 5%;
+}
+ h1 {
+    color: rgb(10, 10, 10);
+    text-align: center;
+    border: 3px solid #131212;
+    background-color: #da1cc0;
+}
+.platos_principales {
+    border: 3px solid #be3786;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: rgb(245, 172, 245);
+    margin-bottom: 5%;
+}
+.postres {
+    border: 3px solid #0c0c0c;
+    border-radius: 10px;
+    padding: 20px;
+    background-color: rgb(206, 16, 133);
+    margin-bottom: 5%;;
+}
+.platos{
+    border-radius: 10px;
+    border: 3px solid #cf2a85;
+    font-size: 24px;
+    color: #222;
+    margin-bottom: 8px;
+    background-color: rgb(255, 254, 255);
+}
+.precio{
+    display: inline-block;
+    background-color: #e060c5;
+    color: rgb(230, 57, 157);
+    padding: 6px 12px;
+    border-radius: 20px;
+    font-weight: bold;
+}
+h2{
+    color: #e6e3e5;
+    margin-bottom: 20px;
+    font-size: 32px;
+}
+.imagen {
+    background-color: #e7d8e0;
+    padding-top: 0.01%;
+    padding-left: 150px;
+    padding-right: 150px;
+    
+}
+.imagen img{
+    width: 400px;
+}
+footer {
+    background-color: #f1eaf0;
+    color: rgb(224, 88, 172);
+    text-align: center;
+    padding: 20px;
+    margin-top: 30px;
+    border-radius: 10px;
+}
+
+footer h2 {
+    color: rgb(247, 236, 242);
+    font-size: 28px;
+}
+
+footer p {
+    margin: 8px;
+    font-size: 16px;
+}
+
+nav {
+    background-color: #8d0281;
+    padding: 15px;
+    text-align: center;
+    margin: 20px 0;
+    border-radius: 10px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0 15px;
+}
+
+nav a:hover {
+    color: #f869ec;
+}
